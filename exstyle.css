@@ -1,0 +1,26 @@
+/* div{
+    background-color: aliceblue;
+    color: antiquewhite;
+    text-decoration: double;
+    text-align: center;
+    font-size: x-small;
+    font-family: 'Times New Roman', Times, serif;
+} */
+
+
+.box{
+    width: 250px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 10px;
+}
+
+
+
+/* *{
+    background-color: yellow;
+    color: blue;
+}
+input{
+   background-color: yellow;
+} */
